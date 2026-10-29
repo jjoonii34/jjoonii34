@@ -1,4 +1,4 @@
-# Gildong Hong
+# Junhyuck Lim
 
 Undergraduate researcher interested in LLMs and recommender systems.
 
