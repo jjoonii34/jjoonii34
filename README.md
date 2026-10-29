@@ -6,7 +6,7 @@ Undergraduate researcher interested in LLMs and recommender systems.
 - Myongji University — B.S. in Convergence Software (Expected Feb. 2028)
 
 ## Research
-- Undergraduate Researcher, AI and Applications Lab (Advisor: Prof. Jooyoung Kim])
+- Undergraduate Researcher, AI and Applications Lab (Advisor: Prof. Jooyoung Kim)
 - Interests: LLM-based recommendation, multimodal learning
 
 ## Projects
