@@ -19,5 +19,5 @@ Undergraduate researcher interested in LLMs and recommender systems.
 Python · PyTorch · JavaScript · Git
 
 ## Contact
-- Email: your@email.com
+- Email: junhyuck0604@gmail.com
 - Blog / LinkedIn: 링크
