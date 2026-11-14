@@ -13,7 +13,7 @@ Undergraduate researcher interested in LLMs and recommender systems.
 | Project | Description | Tech |
 |---|---|---|
 | [bat-company-website](https://github.com/아이디/bat-company-website) | Website for a baseball bat company · [Live](배포링크) | React, ... |
-| [Nexpitch](https://nexpitch.vercel.app/) | 한국형 LLM 축구앱ㅇ | Python, Pytorch, Neon(PostreSQL)|
+| [Nexpitch](https://nexpitch.vercel.app/) | 한국형 LLM 축구앱(개발 중)| Python, Pytorch, Neon(PostreSQL)|
 
 ## Skills
 Python · PyTorch · JavaScript · Git
